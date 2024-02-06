@@ -20,29 +20,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Aula de cybersecurity ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é baseado nos recursos disponiveis de IAs generativas e consiste em criar uma aula sobre os conceitos básicos de segurança cibernetica. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foram utilizados:
+   - Leonardo Ai
+   - Bard
+   - Speechify
+   - PICTORY
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Eu utilizei o chat Bard do google para criar um roteiro da minha aula sobre cybersecurity, em seguida foi usado os recursos do Leonardo AI para criar imagens sobre o tema da aula.
+O próximo passo foi utilizar o Speechify para gerar um audio a partir do conteúdo escrito da aula, depois foi usado o PICTORY que gerou o video aula.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+# # 🚀 Resultados
+O resultado foi incrivel, a aula foi dinâmica com uma boa metodologia adotada pelos algoritmos das IAs. 
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
